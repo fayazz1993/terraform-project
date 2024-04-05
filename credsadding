@@ -3,7 +3,7 @@ Manage Jenkins
 Credentials
 System
 Global credentials (unrestricted)
-kind: secret key
+kind: secret test
 secret: give access key
 id: acess key
 
